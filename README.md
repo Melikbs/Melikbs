@@ -32,7 +32,7 @@ Full Stack & AI Developer based in Tunisia, focused on building robust back-end 
 ### 🚀 Featured Projects
 
 - **[E-Commerce Backoffice Platform](https://github.com/Melikbs/backofficeproject)** — Microservices with Java/Spring Boot, Angular SPA, and two LLaMA3-powered AI agents
-- **[Collab API](https://github.com/Melikbs/Back-end-project-management-application)** — Agile project management REST API with sprints, teams and roles (.NET 8)
+- **[Back-end-project-management-application](https://github.com/Melikbs/Back-end-project-management-application)** — Agile project management REST API with sprints, teams and roles (.NET 8)
 - **[AI Intrusion Detection System](https://github.com/Melikbs/AI-Intrusion-Detection-System)** — Network anomaly detection with ML models + FastAPI + Blazor SOC dashboard *(in progress)*
 
 ---
